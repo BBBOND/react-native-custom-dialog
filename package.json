@@ -1,11 +1,8 @@
 {
   "name": "react-native-custom-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native 自定义Dialog组件",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "RN",
     "react-native",
@@ -13,5 +10,17 @@
     "custom"
   ],
   "author": "moxie",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBBOND/react-native-custom-dialog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BBBOND/react-native-custom-dialog/issues"
+  },
+  "homepage": "https://github.com/BBBOND/react-native-custom-dialog",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BBBOND"
 }
