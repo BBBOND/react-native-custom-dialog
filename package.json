@@ -1,0 +1,17 @@
+{
+  "name": "react-native-custom-dialog",
+  "version": "1.0.0",
+  "description": "React Native 自定义Dialog组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RN",
+    "react-native",
+    "dialog",
+    "custom"
+  ],
+  "author": "moxie",
+  "license": "ISC"
+}
